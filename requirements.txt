@@ -1,0 +1,6 @@
+torch>=1.6
+torchvison
+torchaudio
+numpy
+pillow
+einops
